@@ -1,2 +1,2 @@
-# demoRepo
+# First Demo Respository
 Git practice
